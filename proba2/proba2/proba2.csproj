@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\USER\OneDrive\Рабочий стол\лекция %28типы данных%29.cs" Link="лекция %28типы данных%29.cs" />
+  </ItemGroup>
+
+</Project>
